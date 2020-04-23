@@ -1,6 +1,6 @@
 #include "uthread.h"
 #include <stdio.h>
-
+/*test func*/
 void func1(void * arg)
 {
     puts("1");
